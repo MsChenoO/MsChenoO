@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m Amber</h1>
+
 **Software Engineer & Data Scientist enthusiastic about AI, scalable systems, and real‑world problem solving.**
 
 I build **software systems, data pipelines, and AI‑powered applications** that are reliable, efficient, and production‑ready.  
