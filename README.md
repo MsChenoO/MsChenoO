@@ -41,7 +41,7 @@ A framework that treats LLMs as system components and focuses on safety and obse
 - Deterministic validation of AI outputs  
 - Emphasis on reliability and monitoring  
 
-🔗 https://github.com/yourusername/Sentinel
+🔗 https://github.com/BugVanquisher/Sentinel
 
 ---
 
@@ -78,7 +78,7 @@ A utility project for generating answer sheets for math competitions.
 - CI/CD (GitHub Actions)
 - Cloud deployment (AWS / Render / Railway)
 
-**Frontend (supporting)**
+**Frontend**
 - React, Next.js
 
 ---
@@ -92,13 +92,13 @@ A utility project for generating answer sheets for math competitions.
 
 ## 🎓 Background
 - **M.S. in Data Science**, Illinois Institute of Technology  
-- Experience working with **early‑stage startups** (stealth)  
+- Experience working with **startups**
 - Prior professional background in law, bringing strong analytical and communication skills
 
 ---
 
 ## 📫 Let’s Connect
-- 📧 chenyuan.dev@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link  
+- 📧 Email: [My Email](mailto:chenyuan.dev@gmail.com)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/chen-yuan-b67b58238/)
 
 I’m actively exploring **Software Engineer** and **Data Scientist** opportunities, especially roles that combine engineering, data, and AI.
