@@ -1,11 +1,13 @@
-# 👋 Hi, I’m Amber
-
+<h1 align="center">👋 Hi, I’m Amber</h1>
 **Software Engineer & Data Scientist enthusiastic about AI, scalable systems, and real‑world problem solving.**
 
 I build **software systems, data pipelines, and AI‑powered applications** that are reliable, efficient, and production‑ready.  
 My work sits at the intersection of **engineering, data, and applied AI**, with a strong focus on turning ideas into working systems.
 
 ---
+
+<details>
+<summary><strong>👀 Click to know more about me</strong></summary>
 
 ## 🧠 What I Do
 
@@ -102,3 +104,5 @@ A utility project for generating answer sheets for math competitions.
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/chen-yuan-b67b58238/)
 
 I’m actively exploring **Software Engineer** and **Data Scientist** opportunities, especially roles that combine engineering, data, and AI.
+
+</details>
