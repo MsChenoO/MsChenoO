@@ -1,42 +1,104 @@
-## Chen Yuan
+# 👋 Hi, I’m Amber
 
-**Hands-on Software Engineer** | **GenAI/ML Builder** | **Startup Contributor**
+**Software Engineer & Data Scientist enthusiastic about AI, scalable systems, and real‑world problem solving.**
 
-Building production-ready AI systems and data infrastructure. Execution-first engineer who ships code, not just architectures.
-
-### What I'm Building
-
-**AI Systems & LLM Infrastructure**
-- [**Sentinel**](https://github.com/yourusername/Sentinel) - Production supervision framework for AI systems. Dual-LLM architecture for safety verification (PII detection, prompt injection defense, code injection prevention). Treating LLMs like distributed system components with deterministic verification flows.
-- [**BrandPulseAI**](https://github.com/yourusername/BrandPulseAI) - Enterprise brand monitoring platform powered by LangChain + Ollama. Event-driven microservices with Redis Streams, real-time sentiment analysis, and semantic search using pgvector. Currently shipping Phase 2.
-
-**Full-Stack & Data Engineering**
-- Built real-time data pipelines with Kafka + Spark Streaming for stock market analysis
-- Deployed LLM-based text summarization APIs (BART, T5) with FastAPI
-- Created production matchmaking algorithms at scale (Mingle - 30k+ users)
-
-### Tech Stack
-
-**AI/ML:** LangChain, Ollama (llama3, mistral), Hugging Face Transformers, pgvector
-**Backend:** Python, Node.js, FastAPI, Django, Flask
-**Data:** Kafka, Spark Streaming, Airflow, PostgreSQL, MongoDB, Redis, Elasticsearch
-**Cloud/DevOps:** AWS (S3, Redshift), Docker, Kubernetes, CI/CD
-**Frontend:** React, Redux, Next.js
-
-### Current Focus
-
-Shipping production-grade GenAI applications with emphasis on:
-- AI safety and supervision patterns
-- Multi-model orchestration
-- Real-time event processing
-- Vector search and semantic understanding
-
-### Background
-
-MS in Data Science @ Illinois Tech (3.7 GPA) | Software Engineer @ StartNation (stealth startup) | Previously @ Mingle
-
-Building at the intersection of software engineering and AI. Open to collaborating on LLM infrastructure, AI agents, and production ML systems.
+I build **software systems, data pipelines, and AI‑powered applications** that are reliable, efficient, and production‑ready.  
+My work sits at the intersection of **engineering, data, and applied AI**, with a strong focus on turning ideas into working systems.
 
 ---
 
-**Let's connect:** [chenyuan.dev@gmail.com](mailto:chenyuan.dev@gmail.com)
+## 🧠 What I Do
+
+- Build **backend services and APIs** that support real products
+- Design **data pipelines, analytics workflows, and ETL systems**
+- Integrate **AI / ML models** into applications in practical, responsible ways
+- Ship features in **early‑stage and ambiguous startup environments**
+- Own projects end to end, from design to deployment
+
+---
+
+## 🚀 Featured Projects
+
+### **BrandPulseAI — Real‑Time Brand Monitoring Platform**
+A real‑time, event‑driven platform for tracking brand mentions and sentiment using modern AI techniques.
+
+**Highlights**
+- Streaming data ingestion and processing  
+- Semantic sentiment analysis and vector search  
+- PostgreSQL‑backed data model with scalable pipelines  
+- Designed with production use and extensibility in mind  
+
+🔗 https://github.com/MsChenoO/BrandPulseAI
+
+---
+
+### **Sentinel — AI System Supervision Framework**
+A framework that treats LLMs as system components and focuses on safety and observability.
+
+**Highlights**
+- Multi‑model verification workflows  
+- PII detection and prompt‑injection defense  
+- Deterministic validation of AI outputs  
+- Emphasis on reliability and monitoring  
+
+🔗 https://github.com/yourusername/Sentinel
+
+---
+
+### **MathKangarooAnswerSheetGenerator**
+A utility project for generating answer sheets for math competitions.
+
+**Highlights**
+- Practical automation tool  
+- Demonstrates clean JavaScript logic and problem solving  
+
+---
+
+## 🛠 Tech Stack
+
+**Programming & Engineering**
+- Python, JavaScript, Node.js
+- FastAPI, Flask, Express
+- RESTful API design, authentication, background jobs
+
+**Data & Analytics**
+- SQL (PostgreSQL)
+- Redis
+- pandas, ETL pipelines
+- Data modeling and analytics workflows
+
+**AI / ML**
+- Hugging Face Transformers
+- Embeddings & semantic search
+- Applied LLM integration
+- AI safety and evaluation patterns
+
+**DevOps & Tooling**
+- Docker
+- CI/CD (GitHub Actions)
+- Cloud deployment (AWS / Render / Railway)
+
+**Frontend (supporting)**
+- React, Next.js
+
+---
+
+## 🎯 Current Interests
+- Software engineering roles with strong data or AI components
+- Data scientist roles focused on applied, production‑level systems
+- Building reliable AI‑enabled products
+
+---
+
+## 🎓 Background
+- **M.S. in Data Science**, Illinois Institute of Technology  
+- Experience working with **early‑stage startups** (stealth)  
+- Prior professional background in law, bringing strong analytical and communication skills
+
+---
+
+## 📫 Let’s Connect
+- 📧 chenyuan.dev@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/your-link  
+
+I’m actively exploring **Software Engineer** and **Data Scientist** opportunities, especially roles that combine engineering, data, and AI.
