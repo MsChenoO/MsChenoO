@@ -35,6 +35,32 @@ A real‑time, event‑driven platform for tracking brand mentions and sentiment
 
 ---
 
+### **NanoEval — Safety Certification for Small Models**
+A comprehensive safety framework purpose-built for validating distilled and edge-deployed language models.
+
+**Highlights**
+- Automated safety auditing for distilled models
+- Quantization and fine-tuning regression testing
+- Optimized for edge-ready and resource-constrained environments
+- CI/CD integration for continuous safety validation
+
+🔗 https://github.com/MsChenoO/NanoEval
+
+---
+
+### **Guardian — Policy-as-Code Action Firewall**
+A semantic firewall that protects systems from harmful AI agent actions by validating tool calls and SQL queries.
+
+**Highlights**
+- Semantic validation of agent tool calls
+- Policy-as-Code enforcement (OPA/Rego)
+- AST-based static analysis for code safety
+- Secure sandboxing for agent execution
+
+🔗 https://github.com/BugVanquisher/Guardian
+
+---
+
 ### **Sentinel — AI System Supervision Framework**
 A framework that treats LLMs as system components and focuses on safety and observability.
 
